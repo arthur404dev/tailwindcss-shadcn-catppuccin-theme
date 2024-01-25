@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-shadcn-catppuccin-theme",
+  "version": "1.0.0",
+  "description": "A Tailwindcss plugin to theme shadcn components using catppuccin palette",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/arthur404dev/tailwind-shadcn-catppuccin-theme"
+  },
+  "keywords": [
+    "catppuccin",
+    "tailwindcss",
+    "shadcn"
+  ],
+  "author": "Arthur Andrade",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "latest"
+  }
+}
